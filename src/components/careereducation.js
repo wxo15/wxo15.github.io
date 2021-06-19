@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import Careers from "./careerlist.json"
-import Educations from "./educationlist.json"
+import Careers from "./raw/careerlist.json"
+import Educations from "./raw/educationlist.json"
 
 export default class Career extends Component{
     render() {
@@ -15,7 +15,7 @@ export default class Career extends Component{
                     return (
                         <div className="resume-block" key={item.company}>
                             <div className="resume-block__header">
-                                <h4><a href={item.link}>{item.company}</a></h4>
+                                <h4><a href={item.link} target="blank">{item.company}</a></h4>
                                 <img src={item.logo} alt=""></img>
                                 <p className="resume-block__header-meta">
                                     <span>{item.jobtitle}</span> 
@@ -41,7 +41,7 @@ export default class Career extends Component{
                     return (
                         <div className="resume-block" key={item.institution}>
                             <div className="resume-block__header">
-                                <h4><a href={item.link}>{item.institution}</a></h4>
+                                <h4><a href={item.link} target="blank">{item.institution}</a></h4>
                                 <img src={item.logo} alt=""></img>
                                 <p className="resume-block__header-meta">
                                     <span>{item.course}</span> 

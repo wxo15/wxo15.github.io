@@ -1,0 +1,21 @@
+[{
+    "name": "Tetris battling using PyGame",
+    "link": "https://github.com/wxo15/simple-tetris",
+    "thumbnail": "https://github.com/wxo15/simple-tetris/blob/main/tetris.gif?raw=true"
+}
+,{
+    "name": "N2 sudoku using PyGame",
+    "link": "https://github.com/wxo15/N2-sudoku",
+    "thumbnail": "https://github.com/wxo15/N2-sudoku/blob/main/16x16-in-action.gif?raw=true"
+}
+,{
+    "name": "project3",
+    "link": "modal-03",
+    "thumbnail": "images/portfolio/minimalismo.jpg"
+}
+,{
+    "name": "project4",
+    "link": "modal-04",
+    "thumbnail": "images/portfolio/shutterbug.jpg"
+}
+]

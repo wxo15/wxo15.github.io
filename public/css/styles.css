@@ -3511,10 +3511,10 @@ input[type="button"].btn--primary:focus {
     font-size: 2.4rem;
     line-height: 1.667;
     color: rgba(255, 255, 255, 0.5);
-    margin-top: var(--vspace-0_5);
+    margin-top: var(--vspace-2);
     margin-right: auto;
     margin-left: auto;
-    padding-bottom: var(--vspace-1);
+    padding-bottom: var(--vspace-0.5);
     max-width: 800px;
     position: relative;
 }
@@ -3553,7 +3553,7 @@ input[type="button"].btn--primary:focus {
     margin-top: var(--vspace-0_5);
 }
 
-.s-hero__content-social a {
+.s-hero__content-social a,i {
     color: white;
     margin-right: var(--vspace-0_75);
 }
@@ -3979,6 +3979,7 @@ input[type="button"].btn--primary:focus {
 .folio-list {
     max-width: 1180px;
     margin-top: var(--vspace-2_5);
+    object-fit: cover;
 }
 
 .folio-item__thumb {
@@ -3986,6 +3987,13 @@ input[type="button"].btn--primary:focus {
     background-color: white;
     position: relative;
     overflow: hidden;
+    object-fit: cover;
+}
+
+.folio-item__thumb a,img{
+    width:100%;
+    height:100%;
+    object-fit: cover;
 }
 
 .folio-item__thumb::before {
@@ -3996,12 +4004,14 @@ input[type="button"].btn--primary:focus {
     opacity: 0;
     visibility: hidden;
     position: absolute;
+    border: 10px solid rgba(255, 0, 0, 0.3);
     top: 0;
     left: 0;
     right: 0;
     bottom: 0;
     width: 100%;
     height: 100%;
+    object-fit: cover;
     -webkit-transition: all, .5s;
     transition: all, .5s;
 }
@@ -4043,6 +4053,7 @@ input[type="button"].btn--primary:focus {
 .folio-item:hover .folio-item__thumb::before {
     opacity: 1;
     visibility: visible;
+
 }
 
 .folio-item:hover .folio-item__thumb::after {

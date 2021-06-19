@@ -8,17 +8,15 @@ export default class Hero extends Component{
         <div className="row s-hero__content">
             <div className="column">
                 <div className="s-hero__content-about">
-                    <h1>I am Max</h1>
+                    <h1>Engineer & developer<br></br>ready to create</h1>
                     <div className="s-hero__content-about">
-                        <h3>
-                        Write something here,
-                        and here
-                        & and here.
-                        </h3>
+                        <h3>Reachable through:</h3>
                         <footer>
                             <div className="s-hero__content-social">
-                                <a href="https://www.linkedin.com/in/maxooiwx" target="blank"><i alt="linked" className="fa fa-linkedin"></i></a>
-                                <a href="http://github.com/wxo15" target="blank"><i alt="github" className="fa fa-github"></i></a>
+                                <i alt="linked" className="fa fa-whatsapp"></i>
+                                <i alt="linked" className="fa fa-envelope"></i>
+                                <i alt="linked" className="fa fa-linkedin"></i>
+                                <i alt="github" className="fa fa-github"></i>
                             </div>
                         </footer>
                     </div>
