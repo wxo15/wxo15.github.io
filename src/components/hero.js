@@ -23,6 +23,9 @@ export default class Hero extends Component{
                 </div>
             </div>
         </div>
+        <div className="s-hero__content-footer">
+                <p>Background vector created by liuzishan - www.freepik.com</p>
+        </div>
         </section>
         )
     }

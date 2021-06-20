@@ -9,13 +9,13 @@
     "thumbnail": "https://github.com/wxo15/N2-sudoku/blob/main/16x16-in-action.gif?raw=true"
 }
 ,{
-    "name": "project3",
-    "link": "modal-03",
-    "thumbnail": "images/portfolio/minimalismo.jpg"
+    "name": "Personal portfolio website",
+    "link": "https://github.com/wxo15/wxo15.github.io",
+    "thumbnail": "images/website.png"
 }
 ,{
-    "name": "project4",
-    "link": "modal-04",
-    "thumbnail": "images/portfolio/shutterbug.jpg"
+    "name": "Coming soon",
+    "link": "Coming soon",
+    "thumbnail": "https://cdn.pixabay.com/photo/2018/01/13/13/12/coming-soon-3080102_1280.png"
 }
 ]

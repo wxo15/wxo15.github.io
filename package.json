@@ -1,7 +1,7 @@
 {
   "name": "wxo15.github.io",
   "version": "0.1.0",
-  "homepage": "https://wxo15.github.io/wxo15.github.io/",
+  "homepage": "https://wxo15.github.io/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.4",
