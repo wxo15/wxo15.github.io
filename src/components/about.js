@@ -18,7 +18,7 @@ export default class About extends Component{
                         <div className="column w-1000-stack">
                             <h3>Contact Details</h3>
                             <p>
-                            Max Ooi <br></br>
+                            Max Ooi Wei Xiang<br></br>
                             Somewhere in Selangor, Malaysia <br></br>
                             </p>
                             <div className="s-hero__content-social">
@@ -29,9 +29,9 @@ export default class About extends Component{
                             </div>
                         </div>
                         <div className="column w-1000-stack">
-                            <a href="#0" className="btn btn--download">
+                            <a href="mailto:wxooi15@gmail.com?subject=CV request&body=Hi%2c%0D%0AI%20would%20like%20to%20request%20a%20copy%20of%20your%20CV." className="btn btn--download">
                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 16L16 11 13 11 13 4 11 4 11 11 8 11z"></path><path d="M20,18H4v-7H2v7c0,1.103,0.897,2,2,2h16c1.103,0,2-0.897,2-2v-7h-2V18z"></path></svg>
-                                Download CV (Soon)
+                                Request CV
                             </a>
                         </div>
                     </div>

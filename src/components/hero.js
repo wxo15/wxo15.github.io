@@ -1,14 +1,21 @@
 import React, { Component } from 'react';
+import Rellax from 'rellax';
 
 export default class Hero extends Component{
+    componentDidMount() {
+        // We can keep a reference to Rellax in case we need it later
+        this.rellax = new Rellax('.rellax')
+    }
+
     render() {
         return (
         <section id="hero" className="s-hero target-section">
         <div className="s-hero__bg rellax" data-rellax-speed="-7"></div>
+
         <div className="row s-hero__content">
             <div className="column">
                 <div className="s-hero__content-about">
-                    <h1>Engineer & developer<br></br>ready to create</h1>
+                    <h1>Engineer<br></br>ready to create</h1>
                     <div className="s-hero__content-about">
                         <h3>Reachable through:</h3>
                         <footer>

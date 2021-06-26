@@ -16,11 +16,7 @@ Background: [liuzishan](https://www.freepik.com/liuzishan)
 - Career
 - Education
 - Projects
-
-## Sections/features to be added
-- Skills Section
-- Timeline for Career/Education
-- Better data separation
+- Footer
 
 # How to replicate
 Clone the repository. Change the data in the JSON files located in `./src/components/raw` to yours. Some of the details would still need to be changed within the JavaScript files located in `./src/components/raw`, but this will be improved in the future.

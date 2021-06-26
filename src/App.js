@@ -4,16 +4,22 @@ import About from './components/about.js';
 //import CareerTimeline from './components/career-timeline.js';
 import CareerEdu from './components/careereducation.js';
 import Portfolio from './components/portfolio.js';
-
+import Footer from './components/footer.js';
 
 function App() {
   return (
     <div className="App">
+      <div className="ss-preload">
+        <div id="preloader">
+          <div id="loader"></div>
+        </div>
       <NavigationBar  />
       <Hero  />
       <About  />
       <CareerEdu />
       <Portfolio />
+      <Footer />
+      </div>
     </div>
   );
 }
