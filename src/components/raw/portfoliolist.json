@@ -11,7 +11,12 @@
 ,{
     "name": "Personal portfolio website",
     "link": "https://github.com/wxo15/wxo15.github.io",
-    "thumbnail": "images/website.png"
+    "thumbnail": "images/website1.png"
+}
+,{
+    "name": "IBM Full Stack Cloud Development Capstone Project",
+    "link": "https://github.com/wxo15/agfzb-CloudAppDevelopment_Capstone",
+    "thumbnail": "https://github.com/wxo15/agfzb-CloudAppDevelopment_Capstone/blob/master/how-it-works.gif?raw=true"
 }
 ,{
     "name": "Coming soon",
