@@ -19,6 +19,11 @@
     "thumbnail": "https://github.com/wxo15/IBM-Full-Stack-Development-Capstone/blob/master/how-it-works.gif?raw=true"
 }
 ,{
+    "name": "Uproar",
+    "link": "https://github.com/wxo15/uproar",
+    "thumbnail": "https://github.com/wxo15/uproar/blob/main/screenshots/dashboard.png"
+}
+,{
     "name": "Coming soon",
     "link": "Coming soon",
     "thumbnail": "https://cdn.pixabay.com/photo/2018/01/13/13/12/coming-soon-3080102_1280.png"
