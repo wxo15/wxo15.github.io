@@ -5,8 +5,9 @@ import Educations from "./raw/educationlist.json"
 export default class Career extends Component{
     render() {
         return (
-        <section className="s-resume target-section">
-        <div id="career" className="row s-resume__section">
+        <div>
+        <section id="career" className="s-resume target-section">
+        <div className="row s-resume__section">
             <div className="column large-3 tab-12">
                 <h3 className="section-header-allcaps">Career</h3>
             </div>
@@ -32,7 +33,9 @@ export default class Career extends Component{
                 })}
             </div>
         </div>
-        <div id="education" className="row s-resume__section">
+        </section>
+        <section id="education" className="s-resume target-section">
+        <div className="row s-resume__section">
             <div className="column large-3 tab-12">
                 <h3 className="section-header-allcaps">Education</h3>
             </div>
@@ -59,7 +62,7 @@ export default class Career extends Component{
             </div>
         </div>
         </section>
-        
+        </div>
         )
     }
 };
