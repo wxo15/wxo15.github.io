@@ -3161,13 +3161,16 @@ input[type="button"].btn--primary:focus {
     z-index: 100;
     width: 100%;
     background-color: transparent;
-    position: absolute;
-    top: .8rem;
+    /*background-color: rgba(0,0,0,0.5);*/
+    position: fixed;
+    height: 6em;
+    top: 0;
     left: 0;
 }
 
 .s-header__nav-wrap {
     height: var(--header-height);
+    background-color: rgba(0, 0, 0, 0.5);
     min-height: 0;
     -ms-flex-pack: center;
     -webkit-box-pack: center;
@@ -3185,6 +3188,11 @@ input[type="button"].btn--primary:focus {
 .s-header.scrolling {
     -webkit-transform: translateY(0);
     transform: translateY(0);
+}
+
+.s-header.scrolling {
+    position: sticky;
+    top: 0;
 }
 
 .s-header.sticky {
