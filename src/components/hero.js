@@ -15,7 +15,12 @@ export default class Hero extends Component{
         <div className="row s-hero__content">
             <div className="column">
                 <div className="s-hero__content-about">
-                    <h1>Engineer<br></br>ready to create</h1>
+                    <h1>Engineer<br></br>ready to<span
+                        className="txt-rotate"
+                        data-period="1000"
+                        data-rotate='[ " create", " code", " help", " innovate"]'>
+                    </span><span id="txt-rotate-cursor">.</span>
+                    </h1>
                 </div>
             </div>
         </div>

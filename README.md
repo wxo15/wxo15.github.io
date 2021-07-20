@@ -2,6 +2,8 @@
 
 This is a personal web-app built using ReactJs.
 
+[Link](https://www.wxo15.github.io)
+
 ![screenshot](https://github.com/wxo15/wxo15.github.io/blob/master/public/images/website1.png)
 
 ## Credit

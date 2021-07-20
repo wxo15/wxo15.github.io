@@ -1,0 +1,11 @@
+#txt-rotate-cursor {
+    border-left: solid 8px rgba(255,255,255,.75);
+    position: absolute;
+    animation: animated-cursor 1.5s step-end infinite;
+}
+
+
+@keyframes animated-cursor{
+    from, to {border-left-color: rgba(255,255,255,.75);}
+    50% {border-left-color: transparent;}
+}
