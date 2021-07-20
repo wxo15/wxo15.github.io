@@ -4,7 +4,7 @@ This is a personal web-app built using ReactJs.
 
 [Link](https://www.wxo15.github.io)
 
-![screenshot](https://github.com/wxo15/wxo15.github.io/blob/master/public/images/website1.png)
+![screenshot](https://github.com/wxo15/wxo15.github.io/blob/master/public/images/website.gif)
 
 ## Credit
 Theme: Adapted from [Ceevee 2.0](https://www.styleshout.com/free-templates/ceevee/)
