@@ -16,7 +16,7 @@ export default class About extends Component{
                     <hr></hr>
                     <div className="row s-about__content-bottom">
                         <div className="column w-1000-stack">
-                            <h3>Contact Details</h3>
+                            <h3>Find me on</h3>
                             <p>
                             Max Ooi Wei Xiang<br></br>
                             Somewhere in Selangor, Malaysia <br></br>
@@ -26,12 +26,12 @@ export default class About extends Component{
                                 <a href="mailto:wxooi15@gmail.com" target="_blank" rel="noopener noreferrer"><i alt="linked" className="fa fa-envelope"></i> </a>  
                                 <a href="https://www.linkedin.com/in/maxooiwx" target="_blank" rel="noopener noreferrer"><i alt="linkedin" className="fa fa-linkedin"></i> </a>   
                                 <a href="http://github.com/wxo15" target="_blank" rel="noopener noreferrer"><i alt="github" className="fa fa-github"></i> </a>
+                                <a href="https://leetcode.com/wxo15/" target="_blank" rel="noopener noreferrer"><i alt="leetcode" className="fa iconify" data-icon="simple-icons:leetcode"></i></a>
                             </div>
                         </div>
                         <div className="column w-1000-stack">
                             <a href="mailto:wxooi15@gmail.com?subject=CV request&body=Hi%2c%0D%0AI%20would%20like%20to%20request%20a%20copy%20of%20your%20CV." className="btn btn--download">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 16L16 11 13 11 13 4 11 4 11 11 8 11z"></path><path d="M20,18H4v-7H2v7c0,1.103,0.897,2,2,2h16c1.103,0,2-0.897,2-2v-7h-2V18z"></path></svg>
-                                Request CV
+                            <i alt="linked" className="fa fa-envelope .btn--download"></i> Request CV
                             </a>
                         </div>
                     </div>
