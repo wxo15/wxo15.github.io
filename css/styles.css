@@ -3821,12 +3821,12 @@ input[type="button"].btn--primary:focus {
 }
 
 .s-about__content-bottom a {
-    color: rgba(255, 255, 255, 0.4);
+    color: white;
 }
 
 .s-about__content-bottom a:hover, 
 .s-about__content-bottom a:focus {
-    color: white;
+    color: var(--color-2-light);
 }
 
 .s-about__content-bottom .btn--download {
@@ -3836,7 +3836,8 @@ input[type="button"].btn--primary:focus {
     margin-right: 0;
 }
 
-.s-about__content-bottom .btn--download svg {
+.s-about__content-bottom .btn--download i {
+    color: black;
     height: 2rem;
     width: 2rem;
     vertical-align: middle;
@@ -3849,11 +3850,12 @@ input[type="button"].btn--primary:focus {
 .s-about__content-bottom .btn--download:focus {
     background-color: var(--color-2);
     border-color: var(--color-2);
+    color: white;
 }
 
-.s-about__content-bottom .btn--download:hover svg path, 
-.s-about__content-bottom .btn--download:focus svg path {
-    fill: white;
+.s-about__content-bottom .btn--download:hover i, 
+.s-about__content-bottom .btn--download:focus i {
+    color: white;
 }
 
 /* ------------------------------------------------------------------- 
