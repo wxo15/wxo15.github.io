@@ -16,7 +16,9 @@ export default class NavigationBar extends Component{
             </ul>
             </nav>
         </div>
-        <a className="s-header__menu-toggle" href="#0"><span>Menu</span></a>
+        <a className="s-header__menu-toggle" href="#0" title="Menu">
+            <span className="s-header__menu-icon"></span>
+        </a>
         </div>
         )
     }

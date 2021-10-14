@@ -18,6 +18,7 @@ Background: [liuzishan](https://www.freepik.com/liuzishan)
 - Career
 - Education
 - Projects
+- Badges
 - Footer
 
 # How to replicate

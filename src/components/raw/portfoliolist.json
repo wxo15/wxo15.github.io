@@ -1,32 +1,7 @@
 [{
-    "name": "Tetris battling using PyGame",
-    "link": "https://github.com/wxo15/simple-tetris",
-    "thumbnail": "https://github.com/wxo15/simple-tetris/blob/main/tetris.gif?raw=true"
-}
-,{
-    "name": "N2 sudoku using PyGame",
-    "link": "https://github.com/wxo15/N2-sudoku",
-    "thumbnail": "https://github.com/wxo15/N2-sudoku/blob/main/16x16-in-action.gif?raw=true"
-}
-,{
-    "name": "Personal portfolio website",
-    "link": "https://github.com/wxo15/wxo15.github.io",
-    "thumbnail": "images/website.gif"
-}
-,{
-    "name": "IBM Full Stack Cloud Development Capstone Project",
-    "link": "https://github.com/wxo15/IBM-Full-Stack-Development-Capstone",
-    "thumbnail": "https://github.com/wxo15/IBM-Full-Stack-Development-Capstone/blob/master/how-it-works.gif?raw=true"
-}
-,{
-    "name": "Uproar",
-    "link": "https://github.com/wxo15/uproar",
-    "thumbnail": "https://github.com/wxo15/uproar/blob/main/screenshots/dashboard.png?raw=true"
-}
-,{
-    "name": "OCR-lite",
-    "link": "https://github.com/wxo15/OCR-lite",
-    "thumbnail": "https://github.com/wxo15/OCR-lite/blob/main/website.gif?raw=true"
+    "name": "Coming soon",
+    "link": "Coming soon",
+    "thumbnail": "https://cdn.pixabay.com/photo/2018/01/13/13/12/coming-soon-3080102_1280.png"
 }
 ,{
     "name": "daBoot Bug Tracker",
@@ -34,8 +9,33 @@
     "thumbnail": "https://github.com/wxo15/daBoot/blob/main/website.gif?raw=true"
 }
 ,{
-    "name": "Coming soon",
-    "link": "Coming soon",
-    "thumbnail": "https://cdn.pixabay.com/photo/2018/01/13/13/12/coming-soon-3080102_1280.png"
+    "name": "OCR-lite",
+    "link": "https://github.com/wxo15/OCR-lite",
+    "thumbnail": "https://github.com/wxo15/OCR-lite/blob/main/website.gif?raw=true"
+}
+,{
+    "name": "Uproar",
+    "link": "https://github.com/wxo15/uproar",
+    "thumbnail": "https://github.com/wxo15/uproar/blob/main/screenshots/dashboard.png?raw=true"
+}
+,{
+    "name": "IBM Full Stack Cloud Development Capstone Project",
+    "link": "https://github.com/wxo15/IBM-Full-Stack-Development-Capstone",
+    "thumbnail": "https://github.com/wxo15/IBM-Full-Stack-Development-Capstone/blob/master/how-it-works.gif?raw=true"
+}
+,{
+    "name": "Personal portfolio website",
+    "link": "https://github.com/wxo15/wxo15.github.io",
+    "thumbnail": "images/website.gif"
+}
+,{
+    "name": "N2 sudoku using PyGame",
+    "link": "https://github.com/wxo15/N2-sudoku",
+    "thumbnail": "https://github.com/wxo15/N2-sudoku/blob/main/16x16-in-action.gif?raw=true"
+}
+,{
+    "name": "Tetris battling using PyGame",
+    "link": "https://github.com/wxo15/simple-tetris",
+    "thumbnail": "https://github.com/wxo15/simple-tetris/blob/main/tetris.gif?raw=true"
 }
 ]
