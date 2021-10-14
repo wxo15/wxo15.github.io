@@ -109,7 +109,7 @@
 
         const $toggleButton = $('.s-header__menu-toggle');
         const $headerContent = $('.s-header__content');
-        const $siteBody = $("body");
+        const $siteBody = $(".ss-preload");
 
         $toggleButton.on('click', function(event){
             event.preventDefault();
