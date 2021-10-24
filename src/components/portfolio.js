@@ -15,7 +15,7 @@ export default class Portfolio extends Component{
                     {Portfolios.map((item,index) => {
                         return (
                             <div className="column folio-item" key={item.name}>
-                                <a href={item.link} className="folio-item__thumb" target="_blank" rel="noopener noreferrer">
+                                <a detail={item.detail} href={item.link} className="folio-item__thumb" target="_blank" rel="noopener noreferrer" >
                                     <img src={item.thumbnail} alt={item.name}></img>
                                 </a>
                             </div>
