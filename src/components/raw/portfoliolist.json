@@ -5,6 +5,12 @@
     "thumbnail": "https://cdn.pixabay.com/photo/2018/01/13/13/12/coming-soon-3080102_1280.png"
 }
 ,{
+    "name": "EPFL Functional Programming in Scala",
+    "link": "https://github.com/wxo15/EPFL-functional-programming-in-scala",
+    "detail": "EPFL Functional Programming in Scala Capstone Project - Global Climate Interactive Web App",
+    "thumbnail": "https://github.com/wxo15/EPFL-functional-programming-in-scala/blob/main/Course5/observatory/screenshots/merge.png?raw=true"
+}
+,{
     "name": "GraVT",
     "link": "https://github.com/wxo15/GraVT",
     "detail": "GraVT - Java Android app for fall detection",
