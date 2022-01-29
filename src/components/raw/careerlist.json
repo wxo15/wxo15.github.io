@@ -1,30 +1,44 @@
 [{
-    "company": "ExxonMobil",
+    "company": "ExxonMobil (MY)",
     "link": "https://corporate.exxonmobil.com/",
     "jobtitle": "Application Engineer",
     "period": "Dec 2019 - Present",
-    "description": "Manage and execute alert software deployment projects and sustainment worldwide, valued at over $1M/yr till date. Support every stage of software development life cycle. Introduced new tools, features and work process improvements."
+    "description": [
+        "Lead and provide software deployment, troubleshooting, upgrade and migration support to sites worldwide.",
+        "Provide analytical support for operator workload study benchmarking and stewardship.",
+        "Design, implement and lead multiple enhancements and tool-making projects.",
+        "Modernize work process through introduction of version control, automation, and work process standardization.",
+        "Provide data analytic and business intelligence tools and ad-hoc services, to drive business decisions and improve efficiency",
+        "Train remote/on-site personnel and provide mentoring to new employees."
+    ]
 }
 ,{
-    "company": "Shanghai Huafon Material Technology Institute",
+    "company": "Shanghai Huafon Material Technology Institute (CN)",
     "link": "http://www.huafeng.com/en/",
     "jobtitle": "Polyurethane Research Intern",
     "period": "July - September 2019",
-    "description": ""
+    "description": []
 }
 ,{
-    "company": "GlaxoSmithKline",
+    "company": "ExxonMobil (MY)",
+    "link": "https://corporate.exxonmobil.com/",
+    "jobtitle": "Process Engineering Intern",
+    "period": "July - September 2018",
+    "description": []
+}
+,{
+    "company": "GlaxoSmithKline (GB)",
     "link": "https://www.gsk.com/en-gb/home/",
     "jobtitle": "API Chemistry Intern",
     "period": "July - September 2017",
-    "description": ""
+    "description": []
 }
 ,{
-    "company": "Livingston Group, Imperial College London",
+    "company": "Livingston Group, Imperial College London (GB)",
     "link": "https://www.imperial.ac.uk/livingston-group/",
     "jobtitle": "Undergraduate Researcher",
     "period": "June - September 2016",
-    "description": ""
+    "description": []
 }
 
 
