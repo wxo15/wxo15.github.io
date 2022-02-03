@@ -5,6 +5,12 @@
     "thumbnail": "https://cdn.pixabay.com/photo/2018/01/13/13/12/coming-soon-3080102_1280.png"
 }
 ,{
+    "name": "Stanford Algorithms",
+    "link": "https://github.com/wxo15/stanford-algorithms-coursera",
+    "detail": "Stanford Algorithms Specialization",
+    "thumbnail": "https://github.com/wxo15/stanford-algorithms-coursera/blob/main/thumbnail.png?raw=true"
+}
+,{
     "name": "EPFL Functional Programming in Scala",
     "link": "https://github.com/wxo15/EPFL-functional-programming-in-scala",
     "detail": "EPFL Func Prog in Scala Capstone Project - Global Climate Interactive Web App",
