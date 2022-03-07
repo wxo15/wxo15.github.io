@@ -4,7 +4,8 @@ import About from './components/about.js';
 //import CareerTimeline from './components/career-timeline.js';
 import CareerEdu from './components/careereducation.js';
 import Portfolio from './components/portfolio.js';
-import Badge from './components/badge.js';
+//import Badge from './components/badge.js';
+import Cert from './components/certs.js';
 import Footer from './components/footer.js';
 
 function App() {
@@ -19,7 +20,7 @@ function App() {
       <About  />
       <CareerEdu />
       <Portfolio />
-      <Badge />
+      <Cert />
       <Footer />
       </div>
     </div>

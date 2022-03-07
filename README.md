@@ -19,6 +19,7 @@ Background: [liuzishan](https://www.freepik.com/liuzishan)
 - Education
 - Projects
 - Badges
+- Certificates/Courses
 - Footer
 
 # How to replicate

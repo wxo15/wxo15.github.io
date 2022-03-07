@@ -1,0 +1,84 @@
+[{
+    "area": "Data/ Programming",
+    "certlist": [
+        {
+            "title": "Data Warehousing for Business Intelligence Specialization",
+            "earndate": "In progress",
+            "link": "https://www.coursera.org/specializations/data-warehousing"
+        }
+        ,{
+            "title": "Introductory Hadoop course - Udemy",
+            "earndate": "In progress",
+            "link": "https://www.udemy.com/course/the-ultimate-hands-on-hadoop-tame-your-big-data/"
+        }
+        ,{
+            "title": "Dataiku Core Designer Certificate",
+            "earndate": "March 2022",
+            "link": "https://verify.skilljar.com/c/oxcfqq2m73nk"
+        }
+        ,{
+            "title": "Stanford Algorithms Specialization",
+            "earndate": "December 2021",
+            "link": "https://github.com/wxo15/stanford-algorithms-coursera"
+        }
+        ,{
+            "title": "Deep Learning Specialization",
+            "earndate": "July 2021",
+            "link": "https://coursera.org/share/027d17d447dded4f0f66d9e242d3626c"
+        }
+        ,{
+            "title": "Google Data Analytics Professional Certificate",
+            "earndate": "May 2021",
+            "link": "https://www.credly.com/badges/1eefeae3-fc4f-4f76-bb01-53c93987b298/public_url"
+        }
+        ,{
+            "title": "Java Programming and Software Engineering Fundamentals",
+            "earndate": "May 2021",
+            "link": "https://www.coursera.org/account/accomplishments/specialization/certificate/JCUHSBZSHVEV"
+        }
+        ,{
+            "title": "MTA: Database Fundamentals",
+            "earndate": "May 2020",
+            "link": "https://www.credly.com/badges/b2fb1211-d12b-450f-b674-096a321d40f2/public_url"
+        }
+
+    ]
+}
+,{
+    "area": "Cloud",
+    "certlist": [
+        
+        {
+            "title": "IBM Full Stack Cloud Developer Professional Certificate (Discontinued)",
+            "earndate": "July 2021",
+            "link": "https://www.coursera.org/account/accomplishments/specialization/certificate/LZLSSY72FQ7M"
+        }
+        ,{
+            "title": "AWS Certified Cloud Practitioner",
+            "earndate": "October 2020",
+            "link": "https://www.credly.com/badges/7c4f4043-9804-4eb6-8b6f-f3e95656281e/public_url"
+        }
+        ,{
+            "title": "Microsoft Certified: Azure Fundamentals",
+            "earndate": "August 2020",
+            "link": "https://www.credly.com/badges/a085c8af-1a5c-4f53-a551-cbe0a18429f9/public_url"
+        }
+
+    ]
+}
+,{
+    "area": "IT",
+    "certlist": [
+        {
+            "title": "Comptia Security+",
+            "earndate": "May 2021",
+            "link": "https://www.credly.com/badges/1f375c60-62ff-4c90-a389-735e38b6b460/public_url"
+        }
+        ,{
+            "title": "Comptia A+",
+            "earndate": "January 2021",
+            "link": "https://www.credly.com/badges/6ea1fc5c-c48f-43dc-93ed-3fb5165ccbc6/public_url"
+        }
+    ]
+}
+]
