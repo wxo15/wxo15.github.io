@@ -17,11 +17,10 @@ export default class Cert extends Component{
                                 <h3 className="section-header-allcaps">{item.area}</h3>
                             </div>
                             <div className="column large-9 tab-12">                                    
-                                <p>
                                 <ul>
                                     {item.certlist.map((cert, index) => {
                                         return (
-                                            <li>
+                                            <li key={index}>
                                                 <span style={{marginRight:"0.6rem"}}>
                                                     <a detail={cert.title} href={cert.link} target="_blank" rel="noopener noreferrer">
                                                         {cert.title}
@@ -34,7 +33,6 @@ export default class Cert extends Component{
                                         )
                                     })}
                                 </ul>
-                                </p>
                             </div>
                         </div>
                     )

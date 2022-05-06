@@ -14,7 +14,7 @@ export default class Career extends Component{
             <div className="column large-9 tab-12">
                 {Careers.map((item,index) => {
                     return (
-                        <div className="resume-block" key={item.company}>
+                        <div className="resume-block" key={item.company+item.period}>
                             <div className="resume-block__header">
                                 <h4><a href={item.link} target="blank">{item.company}</a></h4>
                                 <p className="resume-block__header-meta">
@@ -24,15 +24,13 @@ export default class Career extends Component{
                                     </span>
                                 </p>
                             </div>
-                            <p>
                             <ul>
                                 {item.description.map((dscp, index) => {
                                     return (
-                                        <li>{dscp}</li>
+                                        <li key={index}>{dscp}</li>
                                     )
                                 })}
                             </ul>
-                            </p>
                         </div>
                     )
                 })}
@@ -47,7 +45,7 @@ export default class Career extends Component{
             <div className="column large-9 tab-12">
                 {Educations.map((item,index) => {
                     return (
-                        <div className="resume-block" key={item.institution}>
+                        <div className="resume-block" key={item.institution+item.period}>
                             <div className="resume-block__header">
                                 <h4><a href={item.link} target="blank">{item.institution}</a></h4>
                                 <p className="resume-block__header-meta">
@@ -57,15 +55,13 @@ export default class Career extends Component{
                                     </span>
                                 </p>
                             </div>
-                            <p>
                             <ul>
                                 {item.description.map((dscp, index) => {
                                     return (
-                                        <li>{dscp}</li>
+                                        <li key={index}>{dscp}</li>
                                     )
                                 })}
                             </ul>
-                            </p>
                         </div>
                     )
                 })}
