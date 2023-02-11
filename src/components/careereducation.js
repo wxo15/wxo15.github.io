@@ -17,20 +17,25 @@ export default class Career extends Component{
                         <div className="resume-block" key={item.company+item.period}>
                             <div className="resume-block__header">
                                 <h4><a href={item.link} target="blank">{item.company}</a></h4>
-                                <p className="resume-block__header-meta">
-                                    <span>{item.jobtitle}</span> 
+                            </div>
+                            {item.roles.map((role,index) => {
+                            return (
+                                <div><p className="resume-block__header-meta">
+                                    <span>{role.jobtitle}</span> 
                                     <span className="resume-block__header-date">
-                                        {item.period}
+                                        {role.period}
                                     </span>
                                 </p>
-                            </div>
-                            <ul>
-                                {item.description.map((dscp, index) => {
+                                <ul>
+                                {role.description.map((dscp, index) => {
                                     return (
                                         <li key={index}>{dscp}</li>
                                     )
                                 })}
-                            </ul>
+                                </ul>
+                                </div>
+                                
+                            )})}
                         </div>
                     )
                 })}
