@@ -3,21 +3,22 @@
     "link": "https://corporate.exxonmobil.com/",
     "roles": [
     {
-    	"jobtitle": "Global Technical Lead for Alerting",
-    	"period": "Jan 2023 - Present",
+    	"jobtitle": "Knowledge Content Owner (Alerting)",
+    	"period": "Feb 2023 - Present",
     	"description": [
-	    "Oversee all technical aspect of alerting software offering, covering tier 1-4 support, testing and development, deployment, training, stewardship, licensing and stakeholder management.",
+	    "Oversee all aspect of alert software offering (estimated benefit of ~$100m/yr), covering all support tier, R&D, deployment, stewardship, licensing and stakeholder management.",
 	    "Manage in-house and contractor development team in line with continuous improvement philosophy and long-term process control strategy.",
-	    "Modernize work process through introduction of version control, automation and work process standardization."
+	    "Modernize work process through introduction of version control, testing procedures and work process automation.",
+	    "Provide mentorship and training to engineers globally on the technology."
     	]
     },
     {
     	"jobtitle": "Application Engineer",
-    	"period": "Dec 2019 - Present",
+    	"period": "Dec 2019 - Feb 2023",
     	"description": [
-	    "Provide alert software deployment, tier 2 troubleshooting, upgrade and migration support within process control networks worldwide.",
+	    "Provide alert software deployment, tier 2 troubleshooting, upgrade and migration support worldwide.",
 	    "Lead and implement enhancements and end-user tool development projects.",
-	    "Provide data analytic and business intelligence tools and ad-hoc services to drive business decisions and improve efficiency.",
+	    "Provide data analytic and business intelligence tools and services to drive business decisions and improve efficiency.",
 	    "Train remote/on-site personnel and provide mentoring to new employees/interns.",
 	    "Main tech stack: Inductive Automation's Ignition platform, Python scripting, Java module, MSSQL back-end, SSRS/PowerBI reporting. VBA/PowerShell/batch scripts for data engineering/pipeline."
     	]
