@@ -2,11 +2,6 @@
     "area": "Data",
     "certlist": [
         {
-            "title": "Introductory Hadoop course - Udemy",
-            "earndate": "In progress",
-            "link": "https://www.udemy.com/course/the-ultimate-hands-on-hadoop-tame-your-big-data/"
-        }
-        ,{
             "title": "GraphQL Developer - Associate",
             "earndate": "May 2022",
             "link": "https://www.apollographql.com/tutorials/certifications/e6ac38cf-9d16-4a96-a8c6-36c5ba668cd5"
@@ -37,6 +32,11 @@
     "area": "Programming",
     "certlist": [
         {
+            "title": "Georgia Tech Data Structures and Algorithm",
+            "earndate": "June 2023",
+            "link": "https://github.com/wxo15/gatech-data-structures-and-algorithm-edx/"
+        }
+        ,{
             "title": "Bayesian Statistics Specialization (partial)",
             "earndate": "May 2022",
             "link": "https://github.com/wxo15/UCSC-bayesian-statistics-coursera/"

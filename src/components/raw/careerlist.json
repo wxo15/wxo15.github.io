@@ -3,12 +3,12 @@
     "link": "https://corporate.exxonmobil.com/",
     "roles": [
     {
-    	"jobtitle": "Knowledge Content Owner (Alerting)",
+    	"jobtitle": "Knowledge Content Owner (Alerting and Event Detection)",
     	"period": "Feb 2023 - Present",
     	"description": [
 	    "Oversee all aspect of alert software offering (estimated benefit of ~$100m/yr), covering all support tier, R&D, deployment, stewardship, licensing and stakeholder management.",
 	    "Manage in-house and contractor development team in line with continuous improvement philosophy and long-term process control strategy.",
-	    "Modernize work process through introduction of version control, testing procedures and work process automation.",
+	    "Modernize SDLC and work processes through introduction of version control, standardization and automation.",
 	    "Provide mentorship and training to engineers globally on the technology."
     	]
     },
@@ -24,12 +24,17 @@
     	"jobtitle": "Application Engineer",
     	"period": "Dec 2019 - Feb 2023",
     	"description": [
-	    "Provide alert software deployment, tier 2 troubleshooting, upgrade and migration support worldwide.",
-	    "Lead and implement enhancements and end-user tool development projects.",
-	    "Provide data analytic and business intelligence tools and services to drive business decisions and improve efficiency.",
-	    "Train remote/on-site personnel and provide mentoring to new employees/interns.",
+	    "Provided alert software deployment, tier 2 troubleshooting, upgrade and migration support worldwide.",
+	    "Led and implemented enhancements and end-user tool development projects.",
+	    "Provided data analytic and business intelligence tools and services to drive business decisions and improve efficiency.",
+	    "Trained remote/on-site personnel and provide mentoring to new employees/interns.",
 	    "Main tech stack: Inductive Automation's Ignition platform, Python scripting, Java module, MSSQL back-end, SSRS/PowerBI reporting. VBA/PowerShell/batch scripts for data engineering/pipeline."
     	]
+    },
+    {
+    	"jobtitle": "Process Engineering Intern",
+    	"period": "July - September 2018",
+    	"description": []
     }]
 }
 ,{
@@ -38,15 +43,6 @@
     "roles": [{
     	"jobtitle": "Polyurethane Research Intern",
     	"period": "July - September 2019",
-    	"description": []
-    }]
-}
-,{
-    "company": "ExxonMobil (MY)",
-    "link": "https://corporate.exxonmobil.com/",
-    "roles": [{
-    	"jobtitle": "Process Engineering Intern",
-    	"period": "July - September 2018",
     	"description": []
     }]
 }
