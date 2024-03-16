@@ -16,8 +16,13 @@
       $(".ss-preload").toggleClass('menu-is-open');
    });
 
-   $(window).on('resize', function() {
+   $('.smoothscroll').on('click',function (e) {
+      e.preventDefault();
+      if ($(".ss-preload").hasClass("menu-is-open")) $(".ss-preload").removeClass("menu-is-open");
+      if ($('.s-header__menu-toggle').hasClass("is-clicked")) $('.s-header__menu-toggle').removeClass("is-clicked");
+   });
 
+   $(window).on('resize', function() {
       // above 900px
       if (window.matchMedia('(min-width: 901px)').matches) {
           if ($(".ss-preload").hasClass("menu-is-open")) $(".ss-preload").removeClass("menu-is-open");
