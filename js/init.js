@@ -7,6 +7,24 @@
  jQuery(document).ready(function($) {
 
 /*----------------------------------------------------*/
+/* Menu
+------------------------------------------------------ */
+
+   $('.s-header__menu-toggle').on('click',function (e) {
+      e.preventDefault();
+      $('.s-header__menu-toggle').toggleClass('is-clicked');
+      $(".ss-preload").toggleClass('menu-is-open');
+   });
+
+   $(window).on('resize', function() {
+
+      // above 900px
+      if (window.matchMedia('(min-width: 901px)').matches) {
+          if ($(".ss-preload").hasClass("menu-is-open")) $(".ss-preload").removeClass("menu-is-open");
+          if ($('.s-header__menu-toggle').hasClass("is-clicked")) $('.s-header__menu-toggle').removeClass("is-clicked");
+      }
+  });
+/*----------------------------------------------------*/
 /* FitText Settings
 ------------------------------------------------------ */
 
