@@ -19,7 +19,7 @@
         ,{
             "title": "Google Data Analytics Professional Certificate",
             "earndate": "May 2021",
-            "link": "https://www.credly.com/badges/1eefeae3-fc4f-4f76-bb01-53c93987b298/public_url"
+            "link": "https://www.credly.com/badges/3a3d8361-bc64-4886-94c7-f13f8a745551/public_url"
         }
         ,{
             "title": "MTA: Database Fundamentals",
@@ -32,6 +32,16 @@
     "area": "Programming",
     "certlist": [
         {
+            "title": "Georgia Tech Introduction to Object-Oriented Programming with Java",
+            "earndate": "August 2023",
+            "link": "https://github.com/wxo15/gatech-intro-to-oop-with-java-edx/"
+        }
+        ,{
+            "title": "UIUC Accelerated Computer Science Fundamentals",
+            "earndate": "July 2023",
+            "link": "https://github.com/wxo15/uiuc-accelerated-cs/"
+        }
+        ,{
             "title": "Georgia Tech Data Structures and Algorithm",
             "earndate": "June 2023",
             "link": "https://github.com/wxo15/gatech-data-structures-and-algorithm-edx/"
@@ -62,6 +72,11 @@
     "area": "Cloud / IT",
     "certlist": [
         {
+            "title": "Google IT Support Certificate",
+            "earndate": "April 2022",
+            "link": "https://www.credly.com/badges/8f11784a-4c4a-45f4-8031-1c14efe20bb2/public_url"
+        }
+        ,{
             "title": "IBM Full Stack Cloud Developer Professional Certificate (Discontinued)",
             "earndate": "July 2021",
             "link": "https://coursera.org/share/90cb80b0d35d9594d804c96faa79867e"

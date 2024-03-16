@@ -3352,6 +3352,7 @@ input[type="button"].btn--primary:focus {
         position: fixed;
         top: 0;
         left: 0;
+        transition: transform 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
     }
     .s-header__nav {
         font-size: var(--text-size);
@@ -3363,6 +3364,8 @@ input[type="button"].btn--primary:focus {
         transform: translateY(-2rem);
         opacity: 0;
         visibility: hidden;
+        -webkit-transition: all 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
+        transition: all 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
     }
     .s-header__nav ul {
         counter-reset: ctr;

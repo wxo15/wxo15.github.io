@@ -1,4 +1,12 @@
 [{
+    "institution": "Georgia Institute of Technology",
+    "link": "https://www.gatech.edu/",
+    "course": "Master of Computer Science",
+    "period": "Jan 2024 - Present",
+    "description": [
+    ]
+}
+,{
     "institution": "Imperial College London",
     "link": "https://www.imperial.ac.uk/",
     "course": "Master of Engineering (MEng) Chemical Engineering",

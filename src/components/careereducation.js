@@ -20,7 +20,7 @@ export default class Career extends Component{
                             </div>
                             {item.roles.map((role,index) => {
                             return (
-                                <div><p className="resume-block__header-meta">
+                                <div key={index}><p className="resume-block__header-meta">
                                     <span>{role.jobtitle}</span> 
                                     <span className="resume-block__header-date">
                                         {role.period}

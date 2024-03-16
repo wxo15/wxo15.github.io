@@ -2,14 +2,20 @@
     "company": "ExxonMobil (MY)",
     "link": "https://corporate.exxonmobil.com/",
     "roles": [
-    {
+	{
+		"jobtitle": "Data Scientist",
+		"period": "Feb 2024 - Present",
+		"description": [
+		]
+	},
+	{
     	"jobtitle": "Knowledge Content Owner (Alerting and Event Detection)",
-    	"period": "Feb 2023 - Present",
+    	"period": "Feb 2023 - Feb 2024",
     	"description": [
-	    "Oversee all aspect of alert software offering (estimated benefit of ~$100m/yr), covering all support tier, R&D, deployment, stewardship, licensing and stakeholder management.",
-	    "Manage in-house and contractor development team in line with continuous improvement philosophy and long-term process control strategy.",
-	    "Modernize SDLC and work processes through introduction of version control, standardization and automation.",
-	    "Provide mentorship and training to engineers globally on the technology."
+	    "Oversaw all aspect of alert and event detection software offering (estimated benefit of ~$100m/yr), covering all support tier, R&D, deployment, stewardship, licensing and stakeholder management.",
+	    "Managed in-house and contractor development team in line with continuous improvement philosophy and long-term process control strategy.",
+	    "Modernized SDLC and work processes through introduction of version control, standardization and automation.",
+	    "Provided mentorship and training to engineers globally on the technology."
     	]
     },
     {
