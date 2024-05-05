@@ -2,17 +2,19 @@
     "institution": "Georgia Institute of Technology",
     "link": "https://www.gatech.edu/",
     "course": "Master of Computer Science",
-    "period": "Jan 2024 - Present",
+    "period": "Jan 2024 - Dec 2025 (Expected)",
     "description": [
+        "Completed courses: Software Analysis & Testing, Graduate Introduction to Operating Systems.",
+        "Current courses: Machine Learning, Large Language Model (Seminar)."
     ]
 }
 ,{
     "institution": "Imperial College London",
     "link": "https://www.imperial.ac.uk/",
     "course": "Master of Engineering (MEng) Chemical Engineering",
-    "period": "Oct 2015 - June 2019",
+    "period": "Oct 2015 - Jun 2019",
     "description": [
-        "Grade: First Class Honours with a 74.94% average.", 
+        "Grade: First Class Honours.", 
         "Awards: BP book price, Faculty of Engineering and BP Dean’s list, Faculty of Engineering UROP Award.",
         "Projects include simulation, optimization, data analysis, process design, economical studies."
     ]
