@@ -5,6 +5,12 @@
     "thumbnail": "https://cdn.pixabay.com/photo/2018/01/13/13/12/coming-soon-3080102_1280.png"
 }
 ,{
+    "name": "Seismic Image Segmentation",
+    "link": "https://github.com/tshengpu/APGCE-Hackathon-2024-",
+    "detail": "Geohackathon 2024 - Fault prediction using Image Segmentation/CV",
+    "thumbnail": "images/geohack-seismic-segmentation.png"
+}
+,{
     "name": "EPFL Functional Programming in Scala",
     "link": "https://github.com/wxo15/EPFL-functional-programming-in-scala",
     "detail": "EPFL Func Prog in Scala Capstone Project - Global Climate Interactive Web App",
