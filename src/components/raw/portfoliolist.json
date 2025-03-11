@@ -5,6 +5,12 @@
     "thumbnail": "https://cdn.pixabay.com/photo/2018/01/13/13/12/coming-soon-3080102_1280.png"
 }
 ,{
+    "name": "DDPG RL Lunar Lander",
+    "link": "https://github.com/wxo15/DDPG_lunar_lander",
+    "detail": "Reinforcement learning using DDPG on continuous lunar lander problem",
+    "thumbnail": "https://github.com/wxo15/DDPG_lunar_lander/blob/main/images/final_exe_eps300_best.gif?raw=true"
+}
+,{
     "name": "Seismic Image Segmentation",
     "link": "https://github.com/tshengpu/APGCE-Hackathon-2024-",
     "detail": "Geohackathon 2024 - Fault prediction using Image Segmentation/CV",
