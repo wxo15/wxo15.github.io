@@ -1,0 +1,43 @@
+.ld-toggle-checkbox {
+    height: 0;
+    width: 0;
+    visibility: hidden;
+}
+
+.ld-toggle-label {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    width: 50px;
+    height: 25px;
+    background: var(--toggle-bg-bolor);
+    border-radius: 50px;
+    position: relative;
+    --toggle-button-bolor: rgb(255, 255, 159);
+    --toggle-bg-bolor: rgb(33, 1, 140);
+    transition: background-color 0.2s;
+}
+
+.ld-toggle-label .ld-toggle-button {
+    content: '';
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    width: 21px;
+    height: 21px;
+    border-radius: 21px;
+    transition: 0.2s;
+    background: var(--toggle-button-bolor);
+    box-shadow: 0 0 2px 0 rgba(10, 10, 10, 0.29);
+}
+
+.ld-toggle-checkbox:checked + .ld-toggle-label .ld-toggle-button {
+    left: calc(100% - 2px);
+    transform: translateX(-100%);
+    --toggle-button-bolor: #ff0;
+}
+
+.ld-toggle-checkbox:checked + .ld-toggle-label {
+    --toggle-bg-bolor: rgb(0, 145, 255);
+}
