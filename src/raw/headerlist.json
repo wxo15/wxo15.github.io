@@ -1,25 +1,26 @@
-[{
-    "title": "Home",
-    "url": "#hero"
-}
-,{
-    "title": "About",
-    "url": "#about"
-}
-,{
-    "title": "Career",
-    "url": "#career"
-}
-,{
-    "title": "Education",
-    "url": "#education"
-}
-,{
-    "title": "Portfolio",
-    "url": "#portfolio"
-}
-,{
-    "title": "Certificates",
-    "url": "#certs"
-}
+[
+    {
+        "title": "Home",
+        "url": "#hero"
+    },
+    {
+        "title": "About",
+        "url": "#about"
+    },
+    {
+        "title": "Career",
+        "url": "#career"
+    },
+    {
+        "title": "Education",
+        "url": "#education"
+    },
+    {
+        "title": "Portfolio",
+        "url": "#portfolio"
+    },
+    {
+        "title": "Certificates",
+        "url": "#certs"
+    }
 ]

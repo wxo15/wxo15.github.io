@@ -1,75 +1,80 @@
-[{
-    "company": "ExxonMobil (MY)",
-    "link": "https://corporate.exxonmobil.com/",
-    "roles": [
-	{
-		"jobtitle": "Data Scientist",
-		"period": "Feb 2024 - Present",
-		"description": [
-		]
-	},
-	{
-    	"jobtitle": "Knowledge Content Owner (Alerting and Event Detection)",
-    	"period": "Feb 2023 - Feb 2024",
-    	"description": [
-	    "Oversaw all aspect of alert and event detection software offering (estimated benefit of ~$100m/yr), covering all support tier, R&D, deployment, stewardship, licensing and stakeholder management.",
-	    "Managed in-house and contractor development team in line with continuous improvement philosophy and long-term process control strategy.",
-	    "Modernized SDLC and work processes through introduction of version control, standardization and automation.",
-	    "Provided mentorship and training to engineers globally on the technology."
-    	]
+[
+    {
+        "company": "ExxonMobil (MY)",
+        "link": "https://corporate.exxonmobil.com/",
+        "roles": [
+            {
+                "jobtitle": "Data Scientist",
+                "period": "Feb 2024 - Present",
+                "description": []
+            },
+            {
+                "jobtitle": "Knowledge Content Owner (Alerting and Event Detection)",
+                "period": "Feb 2023 - Feb 2024",
+                "description": [
+                    "Oversaw all aspect of alert and event detection software offering (estimated benefit of ~$100m/yr), covering all support tier, R&D, deployment, stewardship, licensing and stakeholder management.",
+                    "Managed in-house and contractor development team in line with continuous improvement philosophy and long-term process control strategy.",
+                    "Modernized SDLC and work processes through introduction of version control, standardization and automation.",
+                    "Provided mentorship and training to engineers globally on the technology."
+                ]
+            },
+            {
+                "jobtitle": "Site Application Engineer (OJT)",
+                "period": "Oct 2022 - Dec 2022",
+                "description": [
+                    "Assigned to Baton Rouge, LA, USA for 2+ months, rotating between various units in both chemicals and refinery sites.",
+                    "Exposed to AspenTech DMC, Honeywell TDC and Experion DCS, process control and working relationships between applications team with other stakeholders on-site."
+                ]
+            },
+            {
+                "jobtitle": "Application Engineer",
+                "period": "Dec 2019 - Feb 2023",
+                "description": [
+                    "Provided alert software deployment, tier 2 troubleshooting, upgrade and migration support worldwide.",
+                    "Led and implemented enhancements and end-user tool development projects.",
+                    "Provided data analytic and business intelligence tools and services to drive business decisions and improve efficiency.",
+                    "Trained remote/on-site personnel and provide mentoring to new employees/interns.",
+                    "Main tech stack: Inductive Automation's Ignition platform, Python scripting, Java module, MSSQL back-end, SSRS/PowerBI reporting. VBA/PowerShell/batch scripts for data engineering/pipeline."
+                ]
+            },
+            {
+                "jobtitle": "Process Engineering Intern",
+                "period": "Jul - Sep 2018",
+                "description": []
+            }
+        ]
     },
     {
-    	"jobtitle": "Site Application Engineer (OJT)",
-    	"period": "Oct 2022 - Dec 2022",
-    	"description": [
-	    "Assigned to Baton Rouge, LA, USA for 2+ months, rotating between various units in both chemicals and refinery sites.",
-	    "Exposed to AspenTech DMC, Honeywell TDC and Experion DCS, process control and working relationships between applications team with other stakeholders on-site."
-    	]
+        "company": "Shanghai Huafon Material Technology Institute (CN)",
+        "link": "http://www.huafeng.com/en/",
+        "roles": [
+            {
+                "jobtitle": "Polyurethane Research Intern",
+                "period": "Jul - Sep 2019",
+                "description": []
+            }
+        ]
     },
     {
-    	"jobtitle": "Application Engineer",
-    	"period": "Dec 2019 - Feb 2023",
-    	"description": [
-	    "Provided alert software deployment, tier 2 troubleshooting, upgrade and migration support worldwide.",
-	    "Led and implemented enhancements and end-user tool development projects.",
-	    "Provided data analytic and business intelligence tools and services to drive business decisions and improve efficiency.",
-	    "Trained remote/on-site personnel and provide mentoring to new employees/interns.",
-	    "Main tech stack: Inductive Automation's Ignition platform, Python scripting, Java module, MSSQL back-end, SSRS/PowerBI reporting. VBA/PowerShell/batch scripts for data engineering/pipeline."
-    	]
+        "company": "GlaxoSmithKline (GB)",
+        "link": "https://www.gsk.com/en-gb/home/",
+        "roles": [
+            {
+                "jobtitle": "API Chemistry Intern",
+                "period": "Jul - Sep 2017",
+                "description": []
+            }
+        ]
     },
     {
-    	"jobtitle": "Process Engineering Intern",
-    	"period": "Jul - Sep 2018",
-    	"description": []
-    }]
-}
-,{
-    "company": "Shanghai Huafon Material Technology Institute (CN)",
-    "link": "http://www.huafeng.com/en/",
-    "roles": [{
-    	"jobtitle": "Polyurethane Research Intern",
-    	"period": "Jul - Sep 2019",
-    	"description": []
-    }]
-}
-,{
-    "company": "GlaxoSmithKline (GB)",
-    "link": "https://www.gsk.com/en-gb/home/",
-    "roles": [{
-    	"jobtitle": "API Chemistry Intern",
-    	"period": "Jul - Sep 2017",
-    	"description": []
-    }]
-}
-,{
-    "company": "Livingston Group, Imperial College London (GB)",
-    "link": "https://www.imperial.ac.uk/livingston-group/",
-    "roles": [{
-    	"jobtitle": "Undergraduate Researcher",
-    	"period": "Jun - Sep 2016",
-    	"description": []
-    }]
-}
-
-
+        "company": "Livingston Group, Imperial College London (GB)",
+        "link": "https://www.imperial.ac.uk/livingston-group/",
+        "roles": [
+            {
+                "jobtitle": "Undergraduate Researcher",
+                "period": "Jun - Sep 2016",
+                "description": []
+            }
+        ]
+    }
 ]

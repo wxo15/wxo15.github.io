@@ -1,117 +1,117 @@
-[{
-    "area": "Data",
-    "certlist": [
-        {
-            "title": "GraphQL Developer - Associate",
-            "earndate": "May 2022",
-            "link": "https://www.apollographql.com/tutorials/certifications/e6ac38cf-9d16-4a96-a8c6-36c5ba668cd5"
-        }
-        ,{
-            "title": "Data Warehousing for Business Intelligence Specialization",
-            "earndate": "Apr 2022",
-            "link": "https://github.com/wxo15/UC-data-warehousing-coursera"
-        }
-        ,{
-            "title": "Dataiku Core Designer Certificate",
-            "earndate": "Mar 2022",
-            "link": "https://verify.skilljar.com/c/oxcfqq2m73nk"
-        }
-        ,{
-            "title": "Google Data Analytics Professional Certificate",
-            "earndate": "May 2021",
-            "link": "https://www.credly.com/badges/3a3d8361-bc64-4886-94c7-f13f8a745551/public_url"
-        }
-        ,{
-            "title": "MTA: Database Fundamentals",
-            "earndate": "May 2020",
-            "link": "https://www.credly.com/badges/b2fb1211-d12b-450f-b674-096a321d40f2/public_url"
-        }
-    ]
-}
-,{
-    "area": "Programming",
-    "certlist": [
-        {
-            "title": "Georgia Tech Introduction to Object-Oriented Programming with Java",
-            "earndate": "Aug 2023",
-            "link": "https://github.com/wxo15/gatech-intro-to-oop-with-java-edx/"
-        }
-        ,{
-            "title": "UIUC Accelerated Computer Science Fundamentals",
-            "earndate": "Jul 2023",
-            "link": "https://github.com/wxo15/uiuc-accelerated-cs/"
-        }
-        ,{
-            "title": "Georgia Tech Data Structures and Algorithm",
-            "earndate": "Jun 2023",
-            "link": "https://github.com/wxo15/gatech-data-structures-and-algorithm-edx/"
-        }
-        ,{
-            "title": "Bayesian Statistics Specialization (partial)",
-            "earndate": "May 2022",
-            "link": "https://github.com/wxo15/UCSC-bayesian-statistics-coursera/"
-        }
-        ,{
-            "title": "Stanford Algorithms Specialization",
-            "earndate": "Dec 2021",
-            "link": "https://github.com/wxo15/stanford-algorithms-coursera"
-        }
-        ,{
-            "title": "Deep Learning Specialization",
-            "earndate": "Jul 2021",
-            "link": "https://coursera.org/share/027d17d447dded4f0f66d9e242d3626c"
-        }
-        ,{
-            "title": "Java Programming and Software Engineering Fundamentals",
-            "earndate": "May 2021",
-            "link": "https://coursera.org/share/86da545c77a7a9bc51672e1306026b07"
-        }
-    ]
-}
-,{
-    "area": "Cloud / IT",
-    "certlist": [
-        {
-            "title": "Google IT Support Certificate",
-            "earndate": "Apr 2022",
-            "link": "https://www.credly.com/badges/8f11784a-4c4a-45f4-8031-1c14efe20bb2/public_url"
-        }
-        ,{
-            "title": "IBM Full Stack Cloud Developer Professional Certificate (Discontinued)",
-            "earndate": "Jul 2021",
-            "link": "https://coursera.org/share/90cb80b0d35d9594d804c96faa79867e"
-        }
-        ,{
-            "title": "Comptia Security+",
-            "earndate": "May 2021",
-            "link": "https://www.credly.com/badges/1f375c60-62ff-4c90-a389-735e38b6b460/public_url"
-        }
-        ,{
-            "title": "Comptia A+",
-            "earndate": "Jan 2021",
-            "link": "https://www.credly.com/badges/6ea1fc5c-c48f-43dc-93ed-3fb5165ccbc6/public_url"
-        }
-        ,{
-            "title": "AWS Certified Cloud Practitioner",
-            "earndate": "Oct 2020",
-            "link": "https://www.credly.com/badges/7c4f4043-9804-4eb6-8b6f-f3e95656281e/public_url"
-        }
-        ,{
-            "title": "Microsoft Certified: Azure Fundamentals",
-            "earndate": "Aug 2020",
-            "link": "https://www.credly.com/badges/a085c8af-1a5c-4f53-a551-cbe0a18429f9/public_url"
-        }
-
-    ]
-}
-,{
-    "area": "Others",
-    "certlist": [
-        {
-            "title": "Six Sigma Green Belt",
-            "earndate": "Apr 2022",
-            "link": "https://coursera.org/share/09e9fa548f8b95e43fc4025d6688ae99"
-        }
-    ]
-}
+[
+    {
+        "area": "Data",
+        "certlist": [
+            {
+                "title": "GraphQL Developer - Associate",
+                "earndate": "May 2022",
+                "link": "https://www.apollographql.com/tutorials/certifications/e6ac38cf-9d16-4a96-a8c6-36c5ba668cd5"
+            },
+            {
+                "title": "Data Warehousing for Business Intelligence Specialization",
+                "earndate": "Apr 2022",
+                "link": "https://github.com/wxo15/UC-data-warehousing-coursera"
+            },
+            {
+                "title": "Dataiku Core Designer Certificate",
+                "earndate": "Mar 2022",
+                "link": "https://verify.skilljar.com/c/oxcfqq2m73nk"
+            },
+            {
+                "title": "Google Data Analytics Professional Certificate",
+                "earndate": "May 2021",
+                "link": "https://www.credly.com/badges/3a3d8361-bc64-4886-94c7-f13f8a745551/public_url"
+            },
+            {
+                "title": "MTA: Database Fundamentals",
+                "earndate": "May 2020",
+                "link": "https://www.credly.com/badges/b2fb1211-d12b-450f-b674-096a321d40f2/public_url"
+            }
+        ]
+    },
+    {
+        "area": "Programming",
+        "certlist": [
+            {
+                "title": "Georgia Tech Introduction to Object-Oriented Programming with Java",
+                "earndate": "Aug 2023",
+                "link": "https://github.com/wxo15/gatech-intro-to-oop-with-java-edx/"
+            },
+            {
+                "title": "UIUC Accelerated Computer Science Fundamentals",
+                "earndate": "Jul 2023",
+                "link": "https://github.com/wxo15/uiuc-accelerated-cs/"
+            },
+            {
+                "title": "Georgia Tech Data Structures and Algorithm",
+                "earndate": "Jun 2023",
+                "link": "https://github.com/wxo15/gatech-data-structures-and-algorithm-edx/"
+            },
+            {
+                "title": "Bayesian Statistics Specialization (partial)",
+                "earndate": "May 2022",
+                "link": "https://github.com/wxo15/UCSC-bayesian-statistics-coursera/"
+            },
+            {
+                "title": "Stanford Algorithms Specialization",
+                "earndate": "Dec 2021",
+                "link": "https://github.com/wxo15/stanford-algorithms-coursera"
+            },
+            {
+                "title": "Deep Learning Specialization",
+                "earndate": "Jul 2021",
+                "link": "https://coursera.org/share/027d17d447dded4f0f66d9e242d3626c"
+            },
+            {
+                "title": "Java Programming and Software Engineering Fundamentals",
+                "earndate": "May 2021",
+                "link": "https://coursera.org/share/86da545c77a7a9bc51672e1306026b07"
+            }
+        ]
+    },
+    {
+        "area": "Cloud / IT",
+        "certlist": [
+            {
+                "title": "Google IT Support Certificate",
+                "earndate": "Apr 2022",
+                "link": "https://www.credly.com/badges/8f11784a-4c4a-45f4-8031-1c14efe20bb2/public_url"
+            },
+            {
+                "title": "IBM Full Stack Cloud Developer Professional Certificate (Discontinued)",
+                "earndate": "Jul 2021",
+                "link": "https://coursera.org/share/90cb80b0d35d9594d804c96faa79867e"
+            },
+            {
+                "title": "Comptia Security+",
+                "earndate": "May 2021",
+                "link": "https://www.credly.com/badges/1f375c60-62ff-4c90-a389-735e38b6b460/public_url"
+            },
+            {
+                "title": "Comptia A+",
+                "earndate": "Jan 2021",
+                "link": "https://www.credly.com/badges/6ea1fc5c-c48f-43dc-93ed-3fb5165ccbc6/public_url"
+            },
+            {
+                "title": "AWS Certified Cloud Practitioner",
+                "earndate": "Oct 2020",
+                "link": "https://www.credly.com/badges/7c4f4043-9804-4eb6-8b6f-f3e95656281e/public_url"
+            },
+            {
+                "title": "Microsoft Certified: Azure Fundamentals",
+                "earndate": "Aug 2020",
+                "link": "https://www.credly.com/badges/a085c8af-1a5c-4f53-a551-cbe0a18429f9/public_url"
+            }
+        ]
+    },
+    {
+        "area": "Others",
+        "certlist": [
+            {
+                "title": "Six Sigma Green Belt",
+                "earndate": "Apr 2022",
+                "link": "https://coursera.org/share/09e9fa548f8b95e43fc4025d6688ae99"
+            }
+        ]
+    }
 ]
