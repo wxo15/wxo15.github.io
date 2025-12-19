@@ -1,0 +1,73 @@
+[{
+    "name": "Coming soon",
+    "link": null,
+    "detail": "Coming soon",
+    "thumbnail": "https://cdn.pixabay.com/photo/2018/01/13/13/12/coming-soon-3080102_1280.png"
+}
+,{
+    "name": "DDPG RL Lunar Lander",
+    "link": "https://github.com/wxo15/DDPG_lunar_lander",
+    "detail": "Reinforcement learning using DDPG on continuous lunar lander problem",
+    "thumbnail": "https://github.com/wxo15/DDPG_lunar_lander/blob/main/images/final_exe_eps300_best.gif?raw=true"
+}
+,{
+    "name": "Seismic Image Segmentation",
+    "link": "https://github.com/tshengpu/APGCE-Hackathon-2024-",
+    "detail": "Geohackathon 2024 - Fault prediction using Image Segmentation/CV",
+    "thumbnail": "images/geohack-seismic-segmentation.png"
+}
+,{
+    "name": "EPFL Functional Programming in Scala",
+    "link": "https://github.com/wxo15/EPFL-functional-programming-in-scala",
+    "detail": "EPFL Func Prog in Scala Capstone Project - Global Climate Interactive Web App",
+    "thumbnail": "https://github.com/wxo15/EPFL-functional-programming-in-scala/blob/main/Course5/observatory/screenshots/merge.png?raw=true"
+}
+,{
+    "name": "GraVT",
+    "link": "https://github.com/wxo15/GraVT",
+    "detail": "GraVT - Java Android app for fall detection",
+    "thumbnail": "https://github.com/wxo15/GraVT/blob/main/screenshots/demo.gif?raw=true"
+}
+,{
+    "name": "daBoot Bug Tracker",
+    "link": "https://github.com/wxo15/daBoot",
+    "detail": "daBoot - bug tracker built using ASP.NET Core/C#/MySQL",
+    "thumbnail": "https://github.com/wxo15/daBoot/blob/main/website.gif?raw=true"
+}
+,{
+    "name": "OCR-lite",
+    "link": "https://github.com/wxo15/OCR-lite",
+    "detail": "OCR-lite - TF's CNN + sklearn's LogRes models deployed on Python Flask",
+    "thumbnail": "https://github.com/wxo15/OCR-lite/blob/main/website.gif?raw=true"
+}
+,{
+    "name": "Uproar",
+    "link": "https://github.com/wxo15/uproar",
+    "detail": "Uproar - email campaign manager on React/MongoDB using SendGrid API",
+    "thumbnail": "https://github.com/wxo15/uproar/blob/main/screenshots/dashboard.png?raw=true"
+}
+,{
+    "name": "IBM Full Stack Cloud Development Capstone Project",
+    "link": "https://github.com/wxo15/IBM-Full-Stack-Development-Capstone",
+    "detail": "IBM Full Stack Cloud Dev Capstone Project - Python Django car dealership app",
+    "thumbnail": "https://github.com/wxo15/IBM-Full-Stack-Development-Capstone/blob/master/how-it-works.gif?raw=true"
+}
+,{
+    "name": "Personal portfolio website",
+    "link": "https://github.com/wxo15/wxo15.github.io",
+    "detail": "Personal portfolio site - ReactJS",
+    "thumbnail": "images/website.gif"
+}
+,{
+    "name": "N2 sudoku using PyGame",
+    "link": "https://github.com/wxo15/N2-sudoku",
+    "detail": "N2 sudoku using PyGame",
+    "thumbnail": "https://github.com/wxo15/N2-sudoku/blob/main/16x16-in-action.gif?raw=true"
+}
+,{
+    "name": "Tetris battling using PyGame",
+    "link": "https://github.com/wxo15/simple-tetris",
+    "detail": "Tetris battling using PyGame",
+    "thumbnail": "https://github.com/wxo15/simple-tetris/blob/main/tetris.gif?raw=true"
+}
+]
