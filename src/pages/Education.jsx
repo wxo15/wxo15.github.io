@@ -1,10 +1,13 @@
 import { motion } from 'framer-motion';
 import Educations from './../raw/educationlist.json';
+import Organizations from '../raw/organizations.json';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 
 export default function Education(param) {
+    const availableOrgList = new Map(Organizations.map(item => [item.name, item.logo]));
+
     const translateX = param.fromRight ? '-100vw' : '100vw';
     return (
         <motion.div
@@ -27,12 +30,17 @@ export default function Education(param) {
                                             key={item.institution + item.period}
                                         >
                                             <div className="resume-block-header">
+                                                {availableOrgList.get(item.institution_alias) && (
+                                                    <img className="resume-org-logo" src={availableOrgList.get(item.institution_alias)}/>
+                                                )}
                                                 <h4>
-                                                    <u>
+                                                    <u >
+                                                        
                                                         <a
                                                             href={item.link}
                                                             target="blank"
                                                         >
+                                                            
                                                             {item.institution}
                                                         </a>
                                                     </u>

@@ -27,8 +27,8 @@
 
 /* width */
 ::-webkit-scrollbar {
-    height: 24px;
-    width: 24px;
+    height: 13px;
+    width: 13px;
 }
 
 /* Track */
@@ -38,14 +38,16 @@
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-    border: solid 10px transparent;
-    box-shadow: inset 10px 10px 10px 10px var(--text-color);
+    border-right: solid 10px transparent;
+    border-bottom: solid 10px transparent;
+    box-shadow: inset -10px -10px var(--text-color);
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-    background: var(--text-hover-color);
+    box-shadow: inset -10px -10px var(--text-hover-color);
 }
+
 /* ------------------------------
    NAVBAR STYLES
 --------------------------------*/
@@ -57,7 +59,7 @@
     color: var(--text-color);
     padding: 5px 20px;
     min-height: 5vh;
-    border-bottom: 1px solid var(--border-color);
+    border-bottom: 2px solid var(--border-color);
     overflow: auto;
     flex-wrap: nowrap;
     /* margin-bottom: 30px; */
@@ -186,7 +188,7 @@
     width: 60%;
     aspect-ratio: 1 / 1;
     object-fit: cover;
-    border: 1px solid var(--border-color);
+    border: 2px solid var(--border-color);
     border-radius: 50%;
 }
 
@@ -223,11 +225,6 @@ i {
     margin-bottom: 0px;
 }
 
-.resume-block h4 {
-    margin-top: 0;
-    margin-bottom: 10px;
-}
-
 .resume-block a,
 i {
     color: var(--text-color);
@@ -236,6 +233,19 @@ i {
 .resume-block i:hover,
 .resume-block a:focus {
     color: var(--text-hover-color);
+}
+
+.resume-block-header {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    gap: 6px
+}
+
+.resume-block-header h4 {
+    margin-top: 0;
+    margin-bottom: 0px;
 }
 
 .resume-block-subheader {
@@ -263,6 +273,17 @@ i {
     color: var(--text-color);
     margin-right: 1rem;
 }
+
+.resume-org-logo {
+    height: 3em;
+    aspect-ratio: 1/1;
+    object-fit: contain;
+    object-position: center; 
+    background-color: white;
+    border: 2px solid var(--border-color);
+    margin-right: 0.5em;
+}
+
 
 /* ------------------------------
    Portfolio
@@ -396,6 +417,30 @@ i {
     transform: scale(1.05);
 }
 
+
+/* ------------------------------
+   Cytoscape
+--------------------------------*/
+canvas {
+    left: 0;
+    top: 0;
+    border: 2px solid #828282;
+    border-radius: 10px;
+    box-shadow: inset 0px 0px 10px 0px #828282
+}
+
+canvas:hover {
+    cursor: grab;
+}
+
+.popper-tooltip {
+    background-color: #fff;
+    color: #000;
+    padding: 3px;
+    border-radius: 3px;
+    border: 2px solid #000;
+}
+
 /* ------------------------------
    FOOTER
 --------------------------------*/
@@ -406,7 +451,7 @@ i {
     color: var(--text-color);
     font-size: 0.9rem;
     text-align: center;
-    border-top: 1px solid var(--border-color);
+    border-top: 2px solid var(--border-color);
     width: 100%;
     display: flex;
 }

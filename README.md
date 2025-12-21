@@ -2,7 +2,7 @@
 
 This is a personal web-app built using ReactJs.
 
-[Link](https://www.wxo15.github.io)
+[Link](https://wxo15.github.io)
 
 ![screenshot](public/images/website.gif)
 

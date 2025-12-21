@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Imperial College London",
+        "logo": "logos/imperial.avif"
+    },
+    {
+        "name": "DeepLearning.AI",
+        "logo": "logos/deeplearningAI.png"
+    },
+    {
+        "name": "Google",
+        "logo": "logos/google.png"
+    },
+    {
+        "name": "Georgia Tech",
+        "logo": "logos/georgiatech.png"
+    },
+    {
+        "name": "Microsoft",
+        "logo": "logos/microsoft.png"
+    },
+    {
+        "name": "Comptia",
+        "logo": "logos/comptia.png"
+    },
+    {
+        "name": "IBM",
+        "logo": "logos/IBM.png"
+    },
+    {
+        "name": "AWS",
+        "logo": "logos/aws.png"
+    },
+    {
+        "name": "GSK",
+        "logo": "logos/gsk.png"
+    },
+    {
+        "name": "huafon",
+        "logo": "logos/huafon.svg"
+    },
+    {
+        "name": "XOM",
+        "logo": "logos/XOM.png"
+    }
+]

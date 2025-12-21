@@ -1,6 +1,7 @@
 [
     {
         "company": "ExxonMobil (MY)",
+        "company_alias": "XOM",
         "link": "https://corporate.exxonmobil.com/",
         "roles": [
             {
@@ -46,6 +47,7 @@
     },
     {
         "company": "Shanghai Huafon Material Technology Institute (CN)",
+        "company_alias": "huafon",
         "link": "http://www.huafeng.com/en/",
         "roles": [
             {
@@ -57,6 +59,7 @@
     },
     {
         "company": "GlaxoSmithKline (GB)",
+        "company_alias": "GSK",
         "link": "https://www.gsk.com/en-gb/home/",
         "roles": [
             {
@@ -68,6 +71,7 @@
     },
     {
         "company": "Livingston Group, Imperial College London (GB)",
+        "company_alias": "Imperial College London",
         "link": "https://www.imperial.ac.uk/livingston-group/",
         "roles": [
             {
