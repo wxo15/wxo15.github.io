@@ -7,7 +7,7 @@
     },
     {
         "name": "Visual-Temporal Modeling",
-        "link": "https://github.com/wxo15/guess-the-flick",
+        "link": "https://github.com/wxo15/vis-temp-mod-for-sim-driving",
         "detail": "CNN–GRU model to improve perception accuracy in simulated driving",
         "thumbnail": "https://github.com/wxo15/vis-temp-mod-for-sim-driving/blob/main/images/seq_2_model_complete.png?raw=true"
     },
