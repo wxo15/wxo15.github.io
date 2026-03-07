@@ -26,7 +26,7 @@ export default function Projects(param) {
                             return (
                                 <Col className="folio-item" key={item.name}>
                                     <a
-                                        detail={item.detail}
+                                        detail={item.name + '\n' + item.detail}
                                         href={item.link}
                                         className="folio-item-thumb"
                                         target="_blank"

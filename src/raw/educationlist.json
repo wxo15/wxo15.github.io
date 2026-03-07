@@ -1,6 +1,7 @@
 [
     {
         "institution": "Georgia Institute of Technology",
+        "institution_alias": "Georgia Tech",
         "link": "https://www.gatech.edu/",
         "course": "Master of Computer Science",
         "period": "Jan 2024 - May 2026 (Expected)",
@@ -14,6 +15,7 @@
     },
     {
         "institution": "Imperial College London",
+        "institution_alias": "Imperial College London",
         "link": "https://www.imperial.ac.uk/",
         "course": "Master of Engineering (MEng) Chemical Engineering",
         "period": "Oct 2015 - Jun 2019",

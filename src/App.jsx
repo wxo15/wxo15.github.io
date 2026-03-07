@@ -14,8 +14,6 @@ import './App.css';
 function App() {
     const location = useLocation();
     const prevLocation = prevLocHook();
-    console.log(prevLocation);
-    console.log(location);
 
     const ROUTES = [
         {
@@ -53,7 +51,6 @@ function App() {
     const currIndex = ROUTES.findIndex((r) => r.path === location.pathname);
 
     const fromRight = currIndex < prevIndex;
-    console.log(fromRight);
 
     return (
         <>
