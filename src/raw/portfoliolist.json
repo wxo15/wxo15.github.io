@@ -6,16 +6,22 @@
         "thumbnail": "https://cdn.pixabay.com/photo/2018/01/13/13/12/coming-soon-3080102_1280.png"
     },
     {
-        "name": "Visual-Temporal Modeling",
-        "link": "https://github.com/wxo15/vis-temp-mod-for-sim-driving",
-        "detail": "CNN–GRU model to improve perception accuracy in simulated driving",
-        "thumbnail": "https://github.com/wxo15/vis-temp-mod-for-sim-driving/blob/main/images/seq_2_model_complete.png?raw=true"
+        "name": "MapReduce Implementation",
+        "link": "https://github.com/wxo15/go-mapreduce",
+        "detail": "Fault-tolerant framework in Go, using Docker and Kubernetes",
+        "thumbnail": "https://github.com/wxo15/go-mapreduce/blob/main/img/architecture.png?raw=true"
     },
     {
         "name": "Guess the Flick!",
         "link": "https://github.com/wxo15/guess-the-flick",
         "detail": "Azure-native, AI-enhanced poster guessing game",
         "thumbnail": "https://github.com/wxo15/guess-the-flick/blob/main/public/demo.gif?raw=true"
+    },
+    {
+        "name": "Visual-Temporal Modeling",
+        "link": "https://github.com/wxo15/vis-temp-mod-for-sim-driving",
+        "detail": "CNN–GRU model to improve perception accuracy in simulated driving",
+        "thumbnail": "https://github.com/wxo15/vis-temp-mod-for-sim-driving/blob/main/images/seq_2_model_complete.png?raw=true"
     },
     {
         "name": "Lunar Lander",
