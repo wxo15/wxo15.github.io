@@ -9,7 +9,7 @@
         "name": "MapReduce Implementation",
         "link": "https://github.com/wxo15/go-mapreduce",
         "detail": "Fault-tolerant framework in Go, using Docker and Kubernetes",
-        "thumbnail": "https://github.com/wxo15/go-mapreduce/blob/main/img/architecture.png?raw=true"
+        "thumbnail": "images/thumbnails/mapreduce.png"
     },
     {
         "name": "Guess the Flick!",
@@ -33,7 +33,7 @@
         "name": "Seismic Image Segmentation",
         "link": "https://github.com/tshengpu/APGCE-Hackathon-2024-",
         "detail": "Geohackathon 2024 - Fault prediction",
-        "thumbnail": "images/geohack-seismic-segmentation.png"
+        "thumbnail": "images/thumbnails/geohack-seismic-segmentation.png"
     },
     {
         "name": "Global Climate Interactive Web App",
