@@ -58,15 +58,23 @@ export default function Education(param) {
                                                     </span>
                                                 </p>
                                                 <ul>
-                                                    {item.description.map(
-                                                        (dscp, index) => {
+                                                    {item.description.map((dscp, index) => {
+                                                        if (dscp.includes(":")) {
+                                                            const colonIndex = dscp.indexOf(":");
+                                                            const prefix = dscp.substring(0, colonIndex + 1);
+                                                            const suffix = dscp.substring(colonIndex + 1);
                                                             return (
                                                                 <li key={index}>
-                                                                    {dscp}
+                                                                    <strong>{prefix}</strong>{suffix}
                                                                 </li>
                                                             );
-                                                        },
-                                                    )}
+                                                        }
+                                                        return (
+                                                            <li key={index}>
+                                                                {dscp}
+                                                            </li>
+                                                        );
+                                                    })}
                                                 </ul>
                                             </div>
                                         </div>
